@@ -1,2 +1,2 @@
-SMDB
+This repo for SMDB homework
 ====
